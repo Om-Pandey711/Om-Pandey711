@@ -7,10 +7,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Om-Pandey711&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Pandey711&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🕷 ###
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXJRdzHTE-x9VaF-C7s42fErRf34k8-mPuGUUaPKGfN88Dp_knSOOrVDPmQQcHHRWUvskX6ZWBRLDe-qNemDt2jUAR5KNyNZqTQ55RMGlX9tosAUVdWKdYAaJKM3Rd7pz9xqx0_UtjLlM/s1600/Emblem_of_India.gif" width="512px"/>
 
 ---
